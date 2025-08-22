@@ -1,33 +1,35 @@
 
 ---
 
-#### **README.md para Club Deportivo**
+#### **README.md para Concesionario Web**
 
-Aplicación web para la gestión de un club deportivo: socios, actividades, reservas y pagos.
 
+Aplicación web para la gestión de vehículos en un concesionario, con panel de administración y funcionalidades avanzadas para clientes.
+
+---
 
 ## ✨ Características
-- Registro y gestión de socios
-- Gestión de actividades y reservas
-- Panel administrativo con roles diferenciados
-- Sistema de notificaciones y reportes
-- Interfaz intuitiva
+- Panel de administración: crear, editar y eliminar coches
+- Autenticación para administradores y clientes
+- Sistema de favoritos por cliente
+- Carrusel de fotos por vehículo
+- Búsqueda y filtrado en tiempo real (sin recargar)
 
 ---
 
 ## 🛠 Tecnologías
 - **HTML5**, **CSS3**, **JavaScript**
-- **PHP** + **MySQL**
-- **Bootstrap** para diseño adaptable
+- **PHP** y **MySQL** para la base de datos
+- **AJAX** para búsqueda dinámica
 
 ---
 
 ## 🔗 Enlaces
-- **Código:** [GitHub](https://github.com/TU-USUARIO/club-deportivo)
+- **Código:** [GitHub](https://github.com/alenunezzrivas/Gestion-Club-Deportivo)
 
 ---
 
 ## ⚙ Instalación
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/TU-USUARIO/club-deportivo.git
+
+   git clone https://github.com/alenunezzrivas/Gestion-Club-Deportivo.git
